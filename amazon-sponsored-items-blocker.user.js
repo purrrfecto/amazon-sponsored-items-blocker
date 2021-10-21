@@ -8,6 +8,9 @@
 // @include      *://www.amazon.com/*
 // @include      *://www.amazon.co.uk/*
 // @include      *://www.amazon.co.jp/*
+// @include      *://smile.amazon.de/*
+// @include      *://smile.amazon.com/*
+// @include      *://smile.amazon.co.uk/*
 // @require      http://code.jquery.com/jquery-latest.js
 // @grant        none
 // @run-at document-end
